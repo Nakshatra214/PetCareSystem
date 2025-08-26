@@ -1,0 +1,4 @@
+Pet Name: bob
+Hunger: 70
+Happiness: 60
+Thirst: 35
